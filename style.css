@@ -1,0 +1,31 @@
+
+/* testing */
+
+body{
+    background-image: url('sphx.jpg');
+    background-size: cover;
+    height: 100vw;
+}
+
+
+
+#elez{
+ position: absolute;
+ top: 50%;
+ left: 50%; 
+transform: translateX(-50%);
+font-size: 3em;
+}
+
+#projects{
+background: red;
+}
+
+#about{
+    background: black;
+}
+
+#contacts{
+    background: green;
+ 
+}
